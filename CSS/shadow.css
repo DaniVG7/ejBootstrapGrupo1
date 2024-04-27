@@ -1,0 +1,5 @@
+.Shadow {
+  box-shadow: 15px 10px 15px rgba(105, 105, 252, 0.7);
+  border-radius: 10px;
+  transition: 0.5s;
+}
